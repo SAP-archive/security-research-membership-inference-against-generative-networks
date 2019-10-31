@@ -74,11 +74,4 @@ https://petsymposium.org/2019/files/papers/issue4/popets-2019-0067.pdf
 
 ## License
 
-This project is licensed under SAP Sample Code License Agreement except as noted otherwise in the [LICENSE file](SAP%20Sample%20Code%20License%20Agreement%20v1.0.pdf).
-
-
-
-
-----------------
-
-
+This project is licensed under SAP Sample Code License Agreement except as noted otherwise in the [LICENSE](LICENSE) file.
