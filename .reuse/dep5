@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Membership Inference Attacks against Generative Models
+Upstream-Contact: Haertma <martin.haerterich@sap.com>
+Source: https://github.com/SAP-samples/security-research-membership-inference-against-generative-networks
+
+Files: *
+Copyright: 2018-2020 SAP SE or an SAP affiliate company and Membership Inference Attacks against Generative Models
+License: Apache-2.0
